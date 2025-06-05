@@ -24,7 +24,7 @@
 A full-stack grocery store app built with HTML, CSS, JavaScript, MongoDB, and React Router.  
 Features include dynamic routing, product browsing, and a shopping cart system as well as a clean UI
 
-### 💼 [Eventelligence](https://github.com/rheanne/eventelligence)  
+### 💼 [Eventelligence](https://github.com/AarunC/eventelligence)  
 A smart event planning app designed to help users organize and manage events efficiently.
 
 

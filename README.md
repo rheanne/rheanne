@@ -10,10 +10,10 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript, Python, Bash, SQL, HTML, CSS  
+- **Languages:** JavaScript, Java, Python, Bash, SQL, HTML, CSS  
 - **Frameworks/Libraries:** React, React Router, Node.js  
-- **Databases:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, Google Colab, VirtualBox, VS Code  
+- **Databases:** MongoDB, MySQL, SQLite  
+- **Tools:** Git, GitHub, Google Colab, VirtualBox, VS Code, Android Studios  
 - **Operating Systems:** Ubuntu, Windows  
 
 ---

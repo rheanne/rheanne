@@ -32,10 +32,12 @@ A collection of projects leveraging Python’s data science ecosystem to extract
 
 🔹 [ArtHouse Central – Independent Cinema Data Analysis](https://github.com/rheanne/ArtHouseCentral)
 - Tools: pandas, seaborn, matplotlib, NumPy
+
 Analyzed viewer behavior, genre preferences, and engagement trends for a fictional indie streaming platform. Explored genre popularity over time, viewer demographics, and multi-genre distribution using visualizations (heatmaps, univariate plots). Cleaned and transformed raw CSV data to reveal insights for content curation strategies.
 
 🔹 [Auto MPG Regression Modeling](https://github.com/rheanne/AutoMPGRegressionProject)
 - Tools: pandas, scikit-learn, matplotlib, seaborn, LinearRegression
+
 Built a multivariate regression model to predict miles per gallon (MPG) based on car weight and country of origin. Applied dummy variable encoding, visualized residuals, and interpreted coefficient significance. Achieved an R² of ~69%, highlighting weight as a strong predictor of fuel efficiency.
 
 ### 🖥️  Ubuntu VM & Networking Labs  
